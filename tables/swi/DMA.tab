@@ -1,0 +1,9 @@
+!DMA_,0x46140,,XDMA_,0x66140,
+RegisterChannel,0x0
+DeregisterChannel,0x1
+QueueTransfer,0x2
+TerminateTransfer,0x3
+SuspendTransfer,0x4
+ResumeTransfer,0x5
+ExamineTransfer,0x6
+AllocateLogicalChannels,0x7

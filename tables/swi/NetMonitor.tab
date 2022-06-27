@@ -1,0 +1,9 @@
+!NetMonitor_,0x80040,,XNetMonitor_,0xA0040,
+PrintChar,0x0
+DefineTask,0x1
+AbandonTask,0x2
+ConvertFont,0x3
+UseFont,0x4
+RestoreFont,0x5
+StartWithCurrentFont,0x6
+StartWithInternalFont,0x7

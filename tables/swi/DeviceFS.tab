@@ -1,0 +1,9 @@
+!DeviceFS_,0x42740,,XDeviceFS_,0x62740,
+Register,0x0
+Deregister,0x1
+RegisterObjects,0x2
+DeregisterObjects,0x3
+CallDevice,0x4
+Threshold,0x5
+ReceivedCharacter,0x6
+TransmitCharacter,0x7

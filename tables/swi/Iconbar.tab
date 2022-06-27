@@ -1,0 +1,4 @@
+!Iconbar_,0x82900,,XIconbar_,0xA2900,
+ClassSWI,0x0
+PostFilter,0x1
+PreFilter,0x2

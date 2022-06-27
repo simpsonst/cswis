@@ -1,0 +1,5 @@
+!TaskManager_,0x42680,,XTaskManager_,0x62680,
+TaskNameFromHandle,0x0
+EnumerateTasks,0x1
+Shutdown,0x2
+StartTask,0x3

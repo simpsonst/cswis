@@ -1,0 +1,4 @@
+!ColourMenu_,0x82980,,XColourMenu_,0xA2980,
+ClassSWI,0x0
+PostFilter,0x1
+PreFilter,0x2

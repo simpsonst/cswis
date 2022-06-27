@@ -1,0 +1,4 @@
+!Joystick_,0x43F40,,XJoystick_,0x63F40,
+Read,0x0
+CalibrateTopRight,0x1
+CalibrateBottomLeft,0x2

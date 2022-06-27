@@ -1,0 +1,6 @@
+!Portable_,0x42FC0,,XPortable_,0x62FC0,
+Speed,0x0
+Control,0x1
+ReadBMUVariable,0x2
+WriteBMUVariable,0x3
+CommandBMU,0x4

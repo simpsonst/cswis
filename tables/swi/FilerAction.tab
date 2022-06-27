@@ -1,0 +1,4 @@
+!FilerAction_,0x40F80,,XFilerAction_,0x60F80,
+SendSelectedDirectory,0x0
+SendSelectedFile,0x1
+SendStartOperation,0x2

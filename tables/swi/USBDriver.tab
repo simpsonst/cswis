@@ -1,0 +1,6 @@
+!USBDriver_,0x54A40,,XUSBDriver_,0x74A40,
+RegisterBus,0x0
+DeRegisterBus,0x1
+InsertTransfer,0x2
+TransferComplete,0x3
+ScheduleSoftInterrupt,0x4

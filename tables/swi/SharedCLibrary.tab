@@ -1,0 +1,6 @@
+!SharedCLibrary_,0x80680,,XSharedCLibrary_,0xA0680,
+LibInitAPCS_A,0x0
+LibInitAPCS_R,0x1
+LibInitModule,0x2
+LibInitAPCS_32,0x3
+LibInitModuleAPCS_32,0x4

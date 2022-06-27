@@ -1,0 +1,5 @@
+Set CSWIs$Dir <Obey$Dir>
+Set CSWIs$Path <CSWIs$Dir>.Library.
+
+Error "I am not ready yet!"
+Run <CSWIs$Dir>.Generate

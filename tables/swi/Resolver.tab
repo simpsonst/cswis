@@ -1,0 +1,5 @@
+!Resolver_,0x46000,,XResolver_,0x66000,
+GetHostByName,0x0
+GetHost,0x1
+GetCache,0x2
+CacheControl,0x3

@@ -1,0 +1,4 @@
+!ProgInfo_,0x82B40,,XProgInfo_,0xA2B40,
+ClassSWI,0x0
+PostFilter,0x1
+PreFilter,0x2

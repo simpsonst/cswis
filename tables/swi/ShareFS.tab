@@ -1,0 +1,4 @@
+!ShareFS_,0x47AC0,,XShareFS_,0x67AC0,
+CreateShare,0x0
+StopShare,0x1
+EnumerateShares,0x2

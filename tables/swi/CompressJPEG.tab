@@ -1,0 +1,4 @@
+!CompressJPEG_,0x4A500,,XCompressJPEG_,0x6A500,
+Start,0x0
+WriteLine,0x1
+Finish,0x2

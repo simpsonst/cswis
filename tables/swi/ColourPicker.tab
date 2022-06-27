@@ -1,0 +1,10 @@
+!ColourPicker_,0x47700,,XColourPicker_,0x67700,
+RegisterModel,0x0
+DeregisterModel,0x1
+OpenDialogue,0x2
+CloseDialogue,0x3
+UpdateDialogue,0x4
+ReadDialogue,0x5
+SetColour,0x6
+HelpReply,0x7
+ModelSWI,0x8

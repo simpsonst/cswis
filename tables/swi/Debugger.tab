@@ -1,0 +1,9 @@
+!Debugger_,0x40380,,XDebugger_,0x60380,
+Disassemble,0x0
+DisassembleThumb,0x1
+
+!Debugger_,0x41d40,,XDebugger_,0x61d40,
+DebugAIF,0x0
+BeingDebugged,0x1
+StartDebug,0x2
+EndDebug,0x3

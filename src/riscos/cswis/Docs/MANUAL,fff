@@ -1,0 +1,40 @@
+To use the headers from a compiler
+----------------------------------
+
+Set your compiler to include from "CSWIs:".  From the source code,
+use:
+
+#include <riscos/swi/PREFIX.h>
+
+...where PREFIX is OS, ADFS, MessageTrans, etc.
+
+
+To generate/update table files
+------------------------------
+
+Edit the file !CSWIs.Chunks.  Lines beginning '#' are ignored.  Each
+line is a comma-separated list of chunk names (such as 'OS',
+'PDriver', etc).
+
+Load the requisite modules.
+
+Run !Collect to cause the configuration file to be processed.  It
+waits for a key-press, just in case you didn't mean to do it!
+
+For each chunk NAME, a file 'Tables.riscos.swi.NAME' is generated.
+The program will try to locate all valid SWIs beginning with that
+name.  If the generated file already exists, and is newer than the
+'extra' file or the generator program, it will not be regenerated.
+
+
+To generate header files
+------------------------
+
+THIS IS NOT IMPLEMENTED YET on RISC OS, but this is what the procedure
+would be:
+
+Run !Generate.  This generates C and assembly header files for each of
+the tables in 'Tables'.
+
+'Extras.NAME/h' is inserted in a C header if it exists.  Similarly,
+'Extras.NAME/Hdr' for assembly headers.

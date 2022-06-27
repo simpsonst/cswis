@@ -1,0 +1,13 @@
+!Filter_,0x42640,,XFilter_,0x62640,
+RegisterPreFilter,0x0
+RegisterPostFilter,0x1
+DeRegisterPreFilter,0x2
+DeRegisterPostFilter,0x3
+RegisterRectFilter,0x4
+DeRegisterRectFilter,0x5
+RegisterCopyFilter,0x6
+DeRegisterCopyFilter,0x7
+RegisterPostRectFilter,0x8
+DeRegisterPostRectFilter,0x9
+RegisterPostIconFilter,0xA
+DeRegisterPostIconFilter,0xB

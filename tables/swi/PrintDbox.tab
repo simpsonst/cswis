@@ -1,0 +1,4 @@
+!PrintDbox_,0x82B00,,XPrintDbox_,0xA2B00,
+ClassSWI,0x0
+PostFilter,0x1
+PreFilter,0x2

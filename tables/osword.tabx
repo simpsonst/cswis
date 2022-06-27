@@ -1,0 +1,16 @@
+!OSWord_
+ReadLine,0
+ReadSystemClock,1
+WriteSystemClock,2
+ReadIntervalTimer,3
+WriteIntervalTimer,4
+ReadPixelLogicalColour,9
+ReadPixelLogicalColor,9
+ReadCharDefinition,10
+RealPalette,11
+WritePalette,12
+ReadGraphicsCursors,13
+ReadCMOSClock,14
+WriteCMOSClock,15
+DefinePointerMouseParams,21
+WriteScreenBaseAddress,22

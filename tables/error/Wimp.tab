@@ -1,0 +1,11 @@
+!Error_,0x280
+NoRoomInRMAForWimp,0x0
+NotInWimpContext,0x1
+RectangleAreaFull,0x2
+TooManyWindows,0x3
+NoRoomInRMAForWindow,0x4
+RedrawProtocolError,0x6
+InputFocusWindowNotFound,0x7
+IllegalWindowHandle,0x8
+BadWorkAreaExtent,0x9
+UserBlockInaccesible,0xf

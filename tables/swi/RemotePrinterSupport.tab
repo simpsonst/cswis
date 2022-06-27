@@ -1,0 +1,9 @@
+!RemotePrinterSupport_,0x47980,,XRemotePrinterSupport_,0x67980,
+ReadPollwordLocation,0x0
+GetNextEvent,0x1
+ReadUniqueAddress,0x2
+Enable,0x3
+Disable,0x4
+EnableUpcalls,0x5
+DisableUpcalls,0x6
+EnumerateUSBPrinters,0x7

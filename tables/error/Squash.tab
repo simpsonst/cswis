@@ -1,0 +1,5 @@
+!Error_,0x920
+BadAddressForSquash,0x1
+BadInputForSquash,0x2
+BadWorkspaceForSquash,0x3
+BadParametersForSquash,0x4

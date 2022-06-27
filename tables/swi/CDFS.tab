@@ -1,0 +1,10 @@
+!CDFS_,0x41E80,,XCDFS_,0x61E80,
+ConvertDriveToDevice,0x0
+SetBufferSize,0x1
+GetBufferSize,0x2
+SetNumberOfDrives,0x3
+GetNumberOfDrives,0x4
+GiveFileType,0x5
+DescribeDisc,0x6
+WhereIsFile,0x7
+Truncation,0x8

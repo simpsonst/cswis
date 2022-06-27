@@ -1,0 +1,4 @@
+!ColourDbox_,0x829C0,,XColourDbox_,0xA29C0,
+ClassSWI,0x0
+PostFilter,0x1
+PreFilter,0x2

@@ -1,0 +1,4 @@
+!FileInfo_,0x82AC0,,XFileInfo_,0xA2AC0,
+ClassSWI,0x0
+PostFilter,0x1
+PreFilter,0x2

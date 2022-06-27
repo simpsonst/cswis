@@ -1,0 +1,10 @@
+!NetPrint_,0x40200,,XNetPrint_,0x60200,
+ReadPSNumber,0x0
+SetPSNumber,0x1
+ReadPSName,0x2
+SetPSName,0x3
+ReadPSTimeouts,0x4
+SetPSTimeouts,0x5
+BindPSName,0x6
+ListServers,0x7
+ConvertStatusToString,0x8

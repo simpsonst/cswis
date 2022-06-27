@@ -1,0 +1,8 @@
+!
+Socket_Async_Event,1
+Socket_Urgent_Event,2
+Socket_Broken_Event,3
+RarpReply,4
+
+## The PRM section on the Internet event defines these labels,
+## although it appears to be only very informal.

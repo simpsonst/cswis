@@ -1,0 +1,4 @@
+!FontDbox_,0x82A00,,XFontDbox_,0xA2A00,
+ClassSWI,0x0
+PostFilter,0x1
+PreFilter,0x2

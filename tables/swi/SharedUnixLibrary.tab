@@ -1,0 +1,6 @@
+!SharedUnixLibrary_,0x55C80,,XSharedUnixLibrary_,0x75C80,
+RegisterUpCall,0x0
+DeRegisterUpCall,0x1
+SetValue,0x2
+Count,0x3
+Initialise,0x4

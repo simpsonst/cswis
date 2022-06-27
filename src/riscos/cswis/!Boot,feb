@@ -1,0 +1,2 @@
+Set CSWIs$Dir <Obey$Dir>
+Set CSWIs$Path <CSWIs$Dir>.Library.

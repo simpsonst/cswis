@@ -1,0 +1,4 @@
+!SoundCtrl_,0x50000,,XSoundCtrl_,0x70000,
+ExamineMixer,0x0
+SetMix,0x1
+GetMix,0x2

@@ -1,0 +1,14 @@
+!Window_,0x82880,,XWindow_,0xA2880,
+ClassSWI,0x0
+PostFilter,0x1
+PreFilter,0x2
+GetPointerInfo,0x3
+WimpToToolbox,0x4
+RegisterExternal,5
+DeregisterExternal,6
+SupportExternal,7
+RegisterFilter,8
+DeregisterFilter,9
+EnumerateGadgets,0xa
+GadgetGetIconList,0xb
+ExtractGadgetInfo,0x1e
